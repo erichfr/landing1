@@ -1,1 +1,1 @@
-# https://github.com/erichfr/landing1
+# https://erichfr.github.io/landing1/
